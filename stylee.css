@@ -333,9 +333,9 @@ p{
   color: #89a07b;
 }
 
-.splide__slide{
+/* .splide__slide{
   filter: grayscale(100%);
-}
+} */
 .splide__slide:hover{
   filter: none;
   transform: scale(1.1);
